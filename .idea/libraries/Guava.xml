@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Guava">
+    <ANNOTATIONS>
+      <root url="file://$PROJECT_DIR$/.idea/codeContracts" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../prebuilts/tools/common/m2/repository/com/google/guava/guava/26.0-jre/guava-26.0-jre.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
